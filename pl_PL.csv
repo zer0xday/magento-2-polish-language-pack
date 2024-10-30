@@ -9596,8 +9596,8 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Cart isn't assigned to correct store","Cart isn't assigned to correct store",module,Magento_Quote
 "'The coupon code couldn't be applied: ' .","'The coupon code couldn't be applied: ' .",module,Magento_Quote
 "The coupon code couldn't be applied. Verify the coupon code and try again.","The coupon code couldn't be applied. Verify the coupon code and try again.",module,Magento_Quote
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_Quote
-"The coupon code couldn't be deleted. Verify the coupon code and try again.","The coupon code couldn't be deleted. Verify the coupon code and try again.",module,Magento_Quote
+"The coupon code isn't valid. Verify the code and try again.","Kod rabatowy jest nieprawidłowy.",module,Magento_Quote
+"The coupon code couldn't be deleted. Verify the coupon code and try again.","Kod rabatowy nie może zostać usunięty.",module,Magento_Quote
 "You don't have the correct permissions to assign the customer to the cart.","You don't have the correct permissions to assign the customer to the cart.",module,Magento_Quote
 "The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Quote
 "The requested Payment Method is not available.","Wybrana metoda płatności nie jest dostępna.",module,Magento_Quote
